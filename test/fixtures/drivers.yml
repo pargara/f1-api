@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  nationality: MyString
+  year_start: 1
+  number_podiums: 1
+  number_world_championship: 1
+
+two:
+  name: MyString
+  nationality: MyString
+  year_start: 1
+  number_podiums: 1
+  number_world_championship: 1
