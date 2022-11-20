@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+#
+
+driver = Driver.create([{ name: "Juan Pablo Montoya", nationality: "CO", year_start: 2002, number_podiums: 30, number_world_championship: 0}])
+track = Track.create([{ name: "Paul Ricard", length: "5,842 KM", country: "France"}])
